@@ -1,0 +1,25 @@
+Hi, this is Marwen.
+
+Main Updates:
+Connection to Carbon Footprint Calculator Backend:
+
+	Connected to the new Carbon Footprint Calculator backend set up by Oussema.
+	The backend can be found in the new Con2Back Service.
+
+Media Files Improvement:
+
+	Made improvements to the media files, resulting in smoother and faster platform performance.
+
+Suggestions for Future Developers:
+
+	Left suggestions to maintain and improve the scalability of the project.
+
+Temporary Objects in Components:
+
+	The models created by the previous developer do not match the new backend.
+	Used temporary objects in the request bodies found in each component.ts file to accommodate this.
+
+that's it !
+
+Do not forget to run "npm install" before you start working 
+Good luck ❤️😃
